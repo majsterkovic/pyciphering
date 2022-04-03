@@ -1,0 +1,3 @@
+global-include *.py *.in *.md
+include DESCRIPTION.md
+include LICENSE
