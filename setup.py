@@ -1,7 +1,7 @@
 import setuptools
 
 NAME = 'pyciphering'
-VERSION = '0.1.1'
+VERSION = '0.1.5'
 DESCRIPTION = 'An awesome package to text ciphering'
 CLASSIFIERS = [
          "Programming Language :: Python :: 3",
@@ -17,7 +17,7 @@ setuptools.setup(
     description=DESCRIPTION,
     long_description=open('DESCRIPTION.md').read(),
     long_description_content_type='text/markdown',
-    url='https://github.com/majsterkovic/ciphers',
+    url='https://github.com/majsterkovic/pyciphering',
     license='MIT',
     packages=setuptools.find_packages(),
     install_requires=[],

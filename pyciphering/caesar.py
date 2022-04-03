@@ -17,5 +17,3 @@ def encode(text, shift):
 
 def decode(text, shift):
     return encode(text, -shift)
-
-print(encode('abcłłł', 3))

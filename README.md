@@ -30,4 +30,9 @@ print(pyciphering.atbash.decode("ZYX")
 
 #### List of all ciphers
 
-> atbash, caesar, viegenere
+- atbash
+- caesar
+- viegenere
+- bifid
+- trifid
+- polybius
