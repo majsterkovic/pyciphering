@@ -21,9 +21,9 @@ import pyciphering
 Printing encoded and decoded text is incredibly easy:
 
 ```python
-print(pyciphering.atbash.encode("Hello world!")
+print(pyciphering.atbash.encode("Hello world!"))
 
-print(pyciphering.atbash.decode("ZYX")
+print(pyciphering.atbash.decode("ZYX"))
 ```
 
 ### Ciphers
